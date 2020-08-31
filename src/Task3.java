@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 public class Task3 {
-    public static void main(String[] args) {
+    /*public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         double x = scanner.nextDouble();
         double y = scanner.nextDouble();
@@ -10,5 +10,5 @@ public class Task3 {
         System.out.println(answer);
 
 
-    }
+    }*/
 }
