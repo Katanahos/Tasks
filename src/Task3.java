@@ -6,7 +6,7 @@ public class Task3 {
         double x = scanner.nextDouble();
         double y = scanner.nextDouble();
 
-        double answer = (Math.sin(x)+Math.cos(y))/(Math.cos(x)+Math.sin(y))*Math.tan(x*y);
+        double answer = (Math.sin(x) + Math.cos(y)) / (Math.cos(x) + Math.sin(y)) * Math.tan(x * y);
         System.out.println(answer);
 
 

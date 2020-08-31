@@ -6,8 +6,8 @@ public class Task4 {
         double x = scanner.nextDouble();
 
         int a = (int) x;
-        double drob = x-a;
-        double answer = drob*1000+((double)a/1000);
+        double drob = x - a;
+        double answer = drob * 1000 + ((double) a / 1000);
         System.out.format("%.3f%n", answer);
 
     }

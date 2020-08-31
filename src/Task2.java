@@ -9,7 +9,7 @@ public class Task2 {
         double b = scanner.nextDouble();
         double c = scanner.nextDouble();
 
-        double answer = ((b+Math.sqrt((b*b+(4*a*c))))/(2*a))-((a*a*a*c)+1/(b*b));
+        double answer = ((b + Math.sqrt((b * b + (4 * a * c)))) / (2 * a)) - ((a * a * a * c) + 1 / (b * b));
         System.out.println(answer);
     }
 }
