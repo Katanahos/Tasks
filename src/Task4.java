@@ -5,7 +5,7 @@ public class Task4 {
         Scanner scanner = new Scanner(System.in);
         double x = scanner.nextDouble();
 
-        Integer a = (int) x;
+        int a = (int) x;
         double drob = x-a;
         double answer = drob*1000+((double)a/1000);
         System.out.format("%.3f%n", answer);
